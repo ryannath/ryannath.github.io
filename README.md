@@ -1,2 +1,2 @@
-# ryannath.learnweb.io
-First website ever, used for learning and testing.
+# First Website
+Used for learning and testing, HTML, CSS, JavaScript and other things.
